@@ -10,8 +10,6 @@ Contact Information: Provides multiple ways for visitors to reach out to me, inc
 Interactive Elements: Implements JavaScript for smooth scrolling, form validation, image sliders, and other interactive features to enhance user experience.
 <br>
 <h1>Technologies Used:</h1><br>
-HTML: Provides the structure and content of the website.
-CSS: Styles the website to make it visually appealing and responsive.
-JavaScript: Adds interactivity and dynamic functionality to the website.
-<br>
-Auther - Ritesh Pedhekar
+<h3>HTML:</h3> Provides the structure and content of the website.<br>
+<h3>CSS:</h3> Styles the website to make it visually appealing and responsive.<br>
+<h3>JavaScript:</h3> Adds interactivity and dynamic functionality to the website.<br>
