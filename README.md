@@ -8,7 +8,6 @@ This is a responsive portfolio website created using HTML, CSS, and JavaScript. 
 <h3>Skills Section:</h3> Highlights my skills and areas of expertise using visually engaging design elements.
 <h3>Contact Information:</h3> Provides multiple ways for visitors to reach out to me, including a contact form, email address, and links to social media profiles.
 <h3>Interactive Elements:</h3> Implements JavaScript for smooth scrolling, form validation, image sliders, and other interactive features to enhance user experience.
-<br>
 <h1>Technologies Used:</h1><br>
 <h3>HTML:</h3> Provides the structure and content of the website.<br>
 <h3>CSS:</h3> Styles the website to make it visually appealing and responsive.<br>
